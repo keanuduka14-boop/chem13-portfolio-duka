@@ -14,6 +14,6 @@
 
 - National Center for Biotechnology Information. (2026). PubChem compound summary for CID 1123: Taurine. https://pubchem.ncbi.nlm.nih.gov/compound/1123
 
-- WebMD. (2026, May 11). Taurine: What is it? https://www.webmd.com/vitamins-and- supplements/what-is-taurine
+- WebMD. (2026, May 11). Taurine: What is it? https://www.webmd.com/vitamins-and-supplements/what-is-taurine
 
 - ResearchGate. (2022). Chemical structure of taurine (Figure 2). https://www.researchgate.net/figure/Chemical-structure-of-Taurine_fig2_359141826
