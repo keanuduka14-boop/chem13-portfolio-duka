@@ -2,7 +2,7 @@
 
 - PubChem. (n.d.). Polytetrafluoroethylene. National Center for Biotechnology Information, National Library of Medicine.
 
-- ScienceDirect. (n.d.). Polytetrafluoroethylene. In Reference Module in Materials Science and https://www.sciencedirect.com/topics/materials-science/polytetrafluoroethylene Materials Engineering. Retrieved from
+- ScienceDirect. (n.d.). Polytetrafluoroethylene. In Reference Module in Materials Science and Materials Engineering. Retrieved from https://www.sciencedirect.com/topics/materials-science/polytetrafluoroethylene 
 
 - Hu, Z., Liu, X., Ren, T., & Chen, Y. (2022). Teflon structure general formula. Figure 3: Polyimide https://www.researchgate.net/figure/Teflon-structure-general-formula-Figure-3- Polyimide-structure-diagram-43_fig2_360893420 structure diagram [Figure]. ResearchGate.
 
