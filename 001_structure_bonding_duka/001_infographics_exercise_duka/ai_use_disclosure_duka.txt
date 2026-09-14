@@ -1,6 +1,6 @@
 AI Disclosure Statement
-      I used AI only as a supporting tool during the preparation of this infographic. The visual design and layout were created using Canva, and no AI-generated images or AI design features were used in the infographic.
-      AI was used to help summarize information gathered from credible sources. However, I independently reviewed, verified, and fact-checked the summarized content against the original sources to ensure its accuracy and appropriateness for this assignment.
-      AI was also used to assist in formatting the reference list in APA style. I reviewed and corrected the citations as needed to ensure they followed APA formatting guidelines.
+      I used ChatGpt only as a supporting tool during the preparation of this infographic. The visual design and layout were created using Canva, and no AI-generated images or AI design features were used in the infographic.
+      ChatGpt was used to help summarize information gathered from credible sources. However, I independently reviewed, verified, and fact-checked the summarized content against the original sources to ensure its accuracy and appropriateness for this assignment.
+      ChatGpt was also used to assist in formatting the reference list in APA style. I reviewed and corrected the citations as needed to ensure they followed APA formatting guidelines.
       I remain responsible for the final content, accuracy, and presentation of this infographic.
 
