@@ -1,5 +1,6 @@
 
 AI Disclosure Statement
-      I used Gemini only as a supporting tool during the preparation of this activity. The visual design and layout were created using Canva, and no AI-generated images or AI design features were used in the infographic. All lewis structures, condensed structures were drawn on canva. The bond-line structures were made with ketcher as instructed
-      
+      I used Gemini only as a supporting tool during the preparation of this activity.
+      The visual design and layout were created using Canva, and no AI-generated images or AI design features were used in the infographic. 
+      All lewis structures, condensed structures were drawn on canva. The bond-line structures were made with ketcher as instructed
       I remain responsible for the final content, accuracy, and presentation of this infographic.
