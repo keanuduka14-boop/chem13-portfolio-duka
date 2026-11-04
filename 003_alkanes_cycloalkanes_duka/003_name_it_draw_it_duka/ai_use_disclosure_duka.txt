@@ -1,0 +1,8 @@
+No AI tools were used in this project. 
+
+"The Alkane" web tool was used only to:
+- Draw the chemical structure
+- Verify the chemical name
+- Check the element count
+
+All explanations, content, and design choices were completed without the aid of AI tools. 
